@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.category {
+  margin-right: 20px;
+  color: #7b8794;
+  cursor: pointer;
+
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.selected {
+  margin-left: 10px;
+  margin-right: 20px;
+  font-weight: bold;
+  color: #2563eb;
+  border-bottom: 4px solid #2563eb;
+}
+.btn {
+  cursor: pointer;
+
+  border: none;
+}

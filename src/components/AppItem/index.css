@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.app {
+  list-style-type: none;
+  display: flex;
+  background-color: white;
+  border-radius: 7px;
+  padding: 20px;
+  width: 150px;
+  align-items: center;
+  margin-bottom: 30px;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.image {
+  width: 100px;
+}
